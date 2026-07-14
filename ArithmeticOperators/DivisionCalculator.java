@@ -6,14 +6,14 @@ public class DivisionCalculator {
 
         System.out.println("Multiplication Calculator");
         System.out.print("Input first number: ");
-        double firstNum = input.nextInt();
+        double firstNum = input.nextDouble();
  
         System.out.print("Input Second number: ");
-        double secondNum = input.nextInt();
+        double secondNum = input.nextDouble();
 
-        double product = firstNum / secondNum;
+        double quotient = firstNum / secondNum;
 
-        System.out.printf("Sum = %.1f", product);
+        System.out.printf("Sum = %.1f", quotient);
 
 
 
