@@ -4,7 +4,7 @@ public class SimpleCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Modulus Calculator");
+        System.out.println("----Simple Calculator----");
         System.out.print("Input first number: ");
         double firstNum = input.nextDouble();
  
