@@ -186,7 +186,8 @@ Display:
 Ask the user for:
 
 - Original Price
-- Discount Percentage
+- System.out.print("Original Price: ");
+        double orginalPrice = input.nextDouble();
 
 Display:
 
