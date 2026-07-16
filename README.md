@@ -4,13 +4,12 @@ This repository contains my Java Fundamentals learning journey.
 
 ## Topics
 
-- Hello World
+- HelloWorld
+- PrintStatements
 - Variables
-- Data Types
-- Scanner
-- Operators
-- Strings
-- Math
+- DataTypes
+- UserInput
+- ArithmeticOperators
 - ...
 
 ## Goal
