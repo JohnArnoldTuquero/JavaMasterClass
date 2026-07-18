@@ -27,8 +27,8 @@ public class PersonalInformation {
         System.out.print("Why this career? ");
         String whyThisCareer = input.nextLine();
 
-        System.out.println("Where do you see yourself in 10 years? ");
-        String future = input.nextLine();
+        //System.out.println("Where do you see yourself in 10 years? ");
+        //String future = input.nextLine();
 
 
         System.out.println("\n----------Student Information----------\n");
