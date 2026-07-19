@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BetterShoppingCalculator {
+public class ShoppingCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
