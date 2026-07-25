@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class NotEqualComparison {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Enter first number: ");
+        int num1 = sc.nextInt();
+
+        System.out.println("Enter second number: ");
+        int num2 = sc.nextInt();
+
+        System.out.println(num1 != num2); // now ipag cocompare naman sila and kapag equal sila then "false", vice versa
+
+
+        sc.close();
+    }
+}
