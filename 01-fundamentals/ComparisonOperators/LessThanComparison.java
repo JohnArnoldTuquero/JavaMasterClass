@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NotEqualComparison {
+public class LessThanComparison {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -10,7 +10,7 @@ public class NotEqualComparison {
         System.out.print("Enter second number: ");
         int num2 = sc.nextInt();
 
-        System.out.println(num1 != num2); // now ipag cocompare naman sila and kapag equal sila then "false", vice versa
+        System.out.println(num1 < num2);
 
 
         sc.close();
